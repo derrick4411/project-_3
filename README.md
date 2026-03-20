@@ -93,4 +93,5 @@ Pipeline([
 ├── requirements.txt
 └── README.md
 ```
-
+ ## conclusion
+The tuned Logistic Regression model significantly improves churn prediction, offering a strong balance between performance and interpretabilit
