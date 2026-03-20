@@ -4,6 +4,14 @@
 
 Binary classification model to predict customer churn for a telecommunications company, enabling proactive retention strategies and reducing revenue loss from customer attrition.
 
+
+
+
+
+**Status:** Model ready for production deployment  
+**Owner:** Data Science Team  
+**Stakeholder:** Head of Telecommunications
+
 ## Models Compared
 
 | Aspect | Base Model (Untuned) | Tuned Model (GridSearchCV) |
@@ -86,13 +94,3 @@ Pipeline([
 └── README.md
 ```
 
-## Next Steps
-- [ ] Implement SMOTE for class imbalance (churn: ~26.5%)
-- [ ] Add SHAP values for individual prediction explainability
-- [ ] Build real-time scoring API
-- [ ] A/B test retention campaigns by risk tier
-
-
-**Status:** Model ready for production deployment  
-**Owner:** Data Science Team  
-**Stakeholder:** Head of Telecommunications
