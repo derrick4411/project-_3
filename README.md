@@ -1,8 +1,3 @@
-# project-_3
- I'll create a GitHub README-style summary for your telecom churn prediction project, following the format of your example but tailored for a classification context with tuned and untuned Logistic Regression models.
-
----
-
 # Telecom Customer Churn Prediction
 
 ## Project Overview
