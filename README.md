@@ -40,6 +40,10 @@ Binary classification model to predict customer churn for a telecommunications c
 - **Tuned model improves churn detection by 12.7%** (recall) — critical for identifying at-risk customers
 - ROC-AUC gain indicates better probability calibration for risk ranking
 - Low computational cost for hyperparameter tuning vs. significant business impact
+- <img width="989" height="590" alt="download14" src="https://github.com/user-attachments/assets/20c7374b-3ea5-4f88-8722-1a4a073c2302" />
+<img width="576" height="435" alt="download9" src="https://github.com/user-attachments/assets/f9cce805-9bf9-413f-bc95-c3d24257fc6f" />
+
+
 
 ### 2. Top Churn Drivers
 1. **Customer service calls** — Strongest predictor; frustration indicator
@@ -47,6 +51,8 @@ Binary classification model to predict customer churn for a telecommunications c
 3. **Total international minutes** — Usage pattern anomaly
 4. **Evening charges & minutes** — Core service dissatisfaction
 5. **Account length** — Loyalty vs. new customer volatility
+   <img width="975" height="547" alt="download4" src="https://github.com/user-attachments/assets/0fbbae6c-1a46-4ce7-a455-3569391a559d" />
+
 
 ## Business Impact
 
